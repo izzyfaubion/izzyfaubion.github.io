@@ -21,6 +21,9 @@
 
 
 
+<p>There is a joke between NBA fans that there are a lot of Jalens in the NBA. It is such a widespread phenomenon that there is <a href="https://www.tiktok.com/@raineyovalle/video/7613155854577126686">a song on Tiktok</a> about it, warning it is very catchy and you will spend the rest of the day singing it. The reason why there are so many players with that name is likely due to legend Jalen Rose. That brings us to the question of which Jalen, or any other spelling, is the best?</p>
+<p>A note: For the purposes of this blog any spelling of the name Jalen will be grouped together into a collective name “The Jalens”, since it is easy to read and write instead of writing out all the spellings every time they are mentioned. When a player is mentioned by name their spelling will be spelled out.</p>
+<p>Let’s start with how many Jalens are in the NBA?</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -132,7 +135,7 @@ font-style: inherit;">"How many Jalens are in the NBA?"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Jalen is the top name in the NBA with 14 players named Jalen, with another spelling coming in seventh."</span></span>
+font-style: inherit;">"Jalen is the top name in the NBA with 14 players named Jalen, with another spelling coming in fifth."</span></span>
 <span id="cb1-22">  )<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span> <span class="fu" style="color: #4758AB;
@@ -329,23 +332,23 @@ font-style: inherit;">"Jaylen"</span>)</span>
 <span id="cb1-55">  )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="ilirudlfce" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#ilirudlfce table {
+<div id="dqlgglxgtp" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#dqlgglxgtp table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#ilirudlfce thead, #ilirudlfce tbody, #ilirudlfce tfoot, #ilirudlfce tr, #ilirudlfce td, #ilirudlfce th {
+#dqlgglxgtp thead, #dqlgglxgtp tbody, #dqlgglxgtp tfoot, #dqlgglxgtp tr, #dqlgglxgtp td, #dqlgglxgtp th {
   border-style: none;
 }
 
-#ilirudlfce p {
+#dqlgglxgtp p {
   margin: 0;
   padding: 0;
 }
 
-#ilirudlfce .gt_table {
+#dqlgglxgtp .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -371,12 +374,12 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-left-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_caption {
+#dqlgglxgtp .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#ilirudlfce .gt_title {
+#dqlgglxgtp .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -388,7 +391,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-bottom-width: 0;
 }
 
-#ilirudlfce .gt_subtitle {
+#dqlgglxgtp .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -400,7 +403,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-top-width: 0;
 }
 
-#ilirudlfce .gt_heading {
+#dqlgglxgtp .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -412,13 +415,13 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_bottom_border {
+#dqlgglxgtp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_col_headings {
+#dqlgglxgtp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -433,7 +436,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_col_heading {
+#dqlgglxgtp .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -453,7 +456,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   overflow-x: hidden;
 }
 
-#ilirudlfce .gt_column_spanner_outer {
+#dqlgglxgtp .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -465,15 +468,15 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 4px;
 }
 
-#ilirudlfce .gt_column_spanner_outer:first-child {
+#dqlgglxgtp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ilirudlfce .gt_column_spanner_outer:last-child {
+#dqlgglxgtp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ilirudlfce .gt_column_spanner {
+#dqlgglxgtp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -485,11 +488,11 @@ font-style: inherit;">"Jaylen"</span>)</span>
   width: 100%;
 }
 
-#ilirudlfce .gt_spanner_row {
+#dqlgglxgtp .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#ilirudlfce .gt_group_heading {
+#dqlgglxgtp .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -515,7 +518,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   text-align: left;
 }
 
-#ilirudlfce .gt_empty_group_heading {
+#dqlgglxgtp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -530,15 +533,15 @@ font-style: inherit;">"Jaylen"</span>)</span>
   vertical-align: middle;
 }
 
-#ilirudlfce .gt_from_md > :first-child {
+#dqlgglxgtp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ilirudlfce .gt_from_md > :last-child {
+#dqlgglxgtp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ilirudlfce .gt_row {
+#dqlgglxgtp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -557,7 +560,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   overflow-x: hidden;
 }
 
-#ilirudlfce .gt_stub {
+#dqlgglxgtp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -570,7 +573,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 5px;
 }
 
-#ilirudlfce .gt_stub_row_group {
+#dqlgglxgtp .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -584,15 +587,15 @@ font-style: inherit;">"Jaylen"</span>)</span>
   vertical-align: top;
 }
 
-#ilirudlfce .gt_row_group_first td {
+#dqlgglxgtp .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#ilirudlfce .gt_row_group_first th {
+#dqlgglxgtp .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#ilirudlfce .gt_summary_row {
+#dqlgglxgtp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -602,16 +605,16 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 5px;
 }
 
-#ilirudlfce .gt_first_summary_row {
+#dqlgglxgtp .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_first_summary_row.thick {
+#dqlgglxgtp .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#ilirudlfce .gt_last_summary_row {
+#dqlgglxgtp .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -621,7 +624,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_grand_summary_row {
+#dqlgglxgtp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -631,7 +634,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 5px;
 }
 
-#ilirudlfce .gt_first_grand_summary_row {
+#dqlgglxgtp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -641,7 +644,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-top-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_last_grand_summary_row_top {
+#dqlgglxgtp .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -651,11 +654,11 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_striped {
+#dqlgglxgtp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ilirudlfce .gt_table_body {
+#dqlgglxgtp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -664,7 +667,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_footnotes {
+#dqlgglxgtp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -678,7 +681,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_footnote {
+#dqlgglxgtp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -687,7 +690,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 5px;
 }
 
-#ilirudlfce .gt_sourcenotes {
+#dqlgglxgtp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -701,7 +704,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#ilirudlfce .gt_sourcenote {
+#dqlgglxgtp .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -709,72 +712,72 @@ font-style: inherit;">"Jaylen"</span>)</span>
   padding-right: 5px;
 }
 
-#ilirudlfce .gt_left {
+#dqlgglxgtp .gt_left {
   text-align: left;
 }
 
-#ilirudlfce .gt_center {
+#dqlgglxgtp .gt_center {
   text-align: center;
 }
 
-#ilirudlfce .gt_right {
+#dqlgglxgtp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ilirudlfce .gt_font_normal {
+#dqlgglxgtp .gt_font_normal {
   font-weight: normal;
 }
 
-#ilirudlfce .gt_font_bold {
+#dqlgglxgtp .gt_font_bold {
   font-weight: bold;
 }
 
-#ilirudlfce .gt_font_italic {
+#dqlgglxgtp .gt_font_italic {
   font-style: italic;
 }
 
-#ilirudlfce .gt_super {
+#dqlgglxgtp .gt_super {
   font-size: 65%;
 }
 
-#ilirudlfce .gt_footnote_marks {
+#dqlgglxgtp .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#ilirudlfce .gt_asterisk {
+#dqlgglxgtp .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#ilirudlfce .gt_indent_1 {
+#dqlgglxgtp .gt_indent_1 {
   text-indent: 5px;
 }
 
-#ilirudlfce .gt_indent_2 {
+#dqlgglxgtp .gt_indent_2 {
   text-indent: 10px;
 }
 
-#ilirudlfce .gt_indent_3 {
+#dqlgglxgtp .gt_indent_3 {
   text-indent: 15px;
 }
 
-#ilirudlfce .gt_indent_4 {
+#dqlgglxgtp .gt_indent_4 {
   text-indent: 20px;
 }
 
-#ilirudlfce .gt_indent_5 {
+#dqlgglxgtp .gt_indent_5 {
   text-indent: 25px;
 }
 
-#ilirudlfce .katex-display {
+#dqlgglxgtp .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#ilirudlfce div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#dqlgglxgtp div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -785,7 +788,7 @@ font-style: inherit;">"Jaylen"</span>)</span>
 <td colspan="2" class="gt_heading gt_title gt_font_normal" style="text-align: left; color: #000000; font-weight: bold;">How many Jalens are in the NBA?</td>
 </tr>
 <tr class="gt_heading even">
-<td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="text-align: left; color: #000000;">Jalen is the top name in the NBA with 14 players named Jalen, with another spelling coming in seventh.</td>
+<td colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border" style="text-align: left; color: #000000;">Jalen is the top name in the NBA with 14 players named Jalen, with another spelling coming in fifth.</td>
 </tr>
 <tr class="gt_col_headings header">
 <th id="Name" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-size: 12; font-weight: bold" scope="col">Name</th>
@@ -844,6 +847,8 @@ font-style: inherit;">"Jaylen"</span>)</span>
 </div>
 </div>
 </div>
+<p>So as you can see the number one name in the NBA is Jalen at 12 players, with another spelling being fifth with 6 players. The other spellings of Jalen both have 1 player with that spelling, but don’t appear on the top ten graph.</p>
+<p>With there being 20 players in the Jalen club, it raises another question. What are their positions?</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -1070,7 +1075,8 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>This is a post with executable code.</p>
+<p>The biggest number of Jalens are shooting guards. Jalen Rose was primarily a shooting guard in the NBA, so there might be a connection somewhere in there. The other largest group are small forwards, Rose’s other main position during his time playing.</p>
+<p>One way to compare good players is to check how many minutes they play in games.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -1443,7 +1449,7 @@ font-style: inherit;">"The top three Jalens based on minutes played are Jalen Wi
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Source: Sports-Reference.com | By Izzy Faubion"</span></span>
+font-style: inherit;">"Source: Hoopr | By Izzy Faubion"</span></span>
 <span id="cb5-19">    )  <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
@@ -1506,7 +1512,8 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>This is a post with executable code.</p>
+<p>The three Jalens that played the most minutes last season were Jalen Williams, Jalen Brunson and Jalen Green. An interesting observation is that Williams missed games due to injuries, but he still was first in minutes played.</p>
+<p>Since most of the Jalens are shooting players, we should compare what they shoot.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -1816,6 +1823,8 @@ font-style: inherit;">0</span>)</span>
 </div>
 </div>
 </div>
+<p>Once again Williams, Brunson, and Green are at the top of the shooters. Jalen Duren didn’t make any three-pointers during the season. Jalen Bridges only made two baskets during his eight games, this is likely why he was waived in during the summer league and is currently in the G league.</p>
+<p>So where does all this information lead us? It appears that the top three Jalens of last season were Jalen Williams, Jalen Brunson and Jalen Green; with Williams being the best. What impact does this make on the world? Little to none. This information won’t change the world, but it is interesting that there are just so many Jalens in the NBA.</p>
 
 
 
@@ -1824,7 +1833,7 @@ font-style: inherit;">0</span>)</span>
   <category>jalen</category>
   <guid>https://your-website-url.example.com/posts/best-jalen-in-the-nba/</guid>
   <pubDate>Fri, 10 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/best-jalen-in-the-nba/image.png" medium="image" type="image/png"/>
+  <media:content url="https://your-website-url.example.com/posts/best-jalen-in-the-nba/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Post With Code</title>
