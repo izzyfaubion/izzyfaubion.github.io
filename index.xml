@@ -21,13 +21,12 @@
 
 
 
-<p>I have a few things to say before I get into the meat and potatoes of this blog and project. This was not the idea that I had coming into this week. My first idea was to compare if a distance from the coast affects how good a volleyball team is. I got this idea from some random dude I met at a club meeting I went to. I never found out his name but I hope he’s doing well. I thought that was a great idea because normally in other sports if you are near the coast you are usually pretty good, except in volleyball where it feels like the midwest is dominant.&nbsp;</p>
+<p>I have a few things to say before I get into the meat and potatoes of this blog and project. This was not the idea that I had coming into this week. My first idea was to compare if a distance from the coast affects how good a volleyball team is. I got this idea from some random dude I met at an RSO meeting I went to. I never found out his name but I hope he’s doing well. I thought that was a great idea because normally in other sports if you are near the coast you are usually pretty good, except in volleyball where it feels like the Midwest is dominant.</p>
 <p>That led me to Sunday night when I realized that my data was due so I went to gather data. I quickly learned that there was absolutely no data on how far colleges are from the coast. In order for me to get the data I would have to find out how the colleges were myself. Well my data was due in hours and I needed it done. So I got a list of every D1 volleyball team, and went to Google Earth. I would have to find a university, put a point down, measure that point to the nearest ocean or big gulf, and then finally put that distance into a spreadsheet. It was in this madness that I created this meme and sent it to a group chat with my friends.</p>
 <p><img src="https://your-website-url.example.com/posts/beach_volleyball_makes_no_sense/611902AA-5751-41B4-A9F7-66B3BB015787_1_105_c.jpeg" class="img-fluid" alt="The meme I made at exactly 7:54 pm on Sunday April 19, 2026."></p>
 <p>I was told that was insane and I should maybe do something different, 68 teams and almost two hours deep in the spreadsheet.</p>
 <p>So now I am going to tell you why college beach volleyball makes total and no sense at the same time.</p>
-<p>I basically kept the same idea from the first idea for this project. I wanted to see if a team has access to a beach does that mean that they are better at volleyball. To start with I needed to see how many teams had access to a beach. To do this I took the top 100 beach volleyball teams and determined if they were near a beach. I cut off the distance to a one hour car ride. I live near two lakes and our trap team would travel about that distance every day to practice and the shooting range; and I felt that a college team could comfortably travel an hour every day for practice. If you don’t like that cut off, pound sand this is my project.&nbsp;<br>
-</p>
+<p>I basically kept the same idea from the first idea for this project. I wanted to see if a team has access to a beach does that mean that they are better at volleyball. To start with I needed to see how many teams had access to a beach. To do this I took the top 100 beach volleyball teams and determined if they were near a beach. I cut off the distance to a one hour car ride. I live near two lakes and our trap team would travel about that distance every day to practice and the shooting range; and I felt that a college team could comfortably travel an hour every day for practice. If you don’t like that cut off, pound sand this is my project.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -37,8 +36,7 @@ font-style: inherit;">library</span>(tidyverse)</span>
 <span id="cb1-2"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">library</span>(ggrepel)</span>
-<span id="cb1-3"></span>
-<span id="cb1-4">bardata<span class="ot" style="color: #003B4F;
+<span id="cb1-3">bardata<span class="ot" style="color: #003B4F;
 background-color: null;
 font-style: inherit;">&lt;-</span><span class="fu" style="color: #4758AB;
 background-color: null;
@@ -47,16 +45,15 @@ background-color: null;
 font-style: inherit;">"beachyn.csv"</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">|&gt;</span> </span>
-<span id="cb1-5">  <span class="fu" style="color: #4758AB;
+<span id="cb1-4">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">count</span>(beach)</span>
-<span id="cb1-6"></span>
-<span id="cb1-7"><span class="fu" style="color: #4758AB;
+<span id="cb1-5"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">ggplot</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb1-8">  <span class="fu" style="color: #4758AB;
+<span id="cb1-6">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">geom_bar</span>(<span class="at" style="color: #657422;
 background-color: null;
@@ -79,10 +76,10 @@ background-color: null;
 font-style: inherit;">"Has Beach Access"</span>))) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb1-9">  <span class="fu" style="color: #4758AB;
+<span id="cb1-7">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">scale_fill_manual</span>(</span>
-<span id="cb1-10">    <span class="at" style="color: #657422;
+<span id="cb1-8">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">values =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -95,49 +92,49 @@ background-color: null;
 font-style: inherit;">Yes =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"#FB8500"</span>)</span>
-<span id="cb1-11">  ) <span class="sc" style="color: #5E5E5E;
+<span id="cb1-9">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb1-12">  <span class="fu" style="color: #4758AB;
+<span id="cb1-10">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">labs</span>(</span>
-<span id="cb1-13">    <span class="at" style="color: #657422;
+<span id="cb1-11">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Access to a beach"</span>, </span>
-<span id="cb1-14">    <span class="at" style="color: #657422;
+<span id="cb1-12">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Number of schools"</span>, </span>
-<span id="cb1-15">    <span class="at" style="color: #657422;
+<span id="cb1-13">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"How many schools of the top 100 have beach access"</span>, </span>
-<span id="cb1-16">    <span class="at" style="color: #657422;
+<span id="cb1-14">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Of the top 100 schools, the split between those that have access and those that don't is fairly similar."</span>, </span>
-<span id="cb1-17">    <span class="at" style="color: #657422;
+<span id="cb1-15">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: Collegebeachvb | By Izzy Faubion"</span></span>
-<span id="cb1-18">  ) <span class="sc" style="color: #5E5E5E;
+<span id="cb1-16">  ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb1-19">  <span class="fu" style="color: #4758AB;
+<span id="cb1-17">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb1-20">  <span class="fu" style="color: #4758AB;
+<span id="cb1-18">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb1-21">    <span class="at" style="color: #657422;
+<span id="cb1-19">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -145,12 +142,12 @@ font-style: inherit;">element_text</span>(<span class="at" style="color: #657422
 background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">18</span>, <span class="at" style="color: #657422;
+font-style: inherit;">20</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb1-22">    <span class="at" style="color: #657422;
+<span id="cb1-20">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -159,7 +156,7 @@ background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">8</span>), </span>
-<span id="cb1-23">    <span class="at" style="color: #657422;
+<span id="cb1-21">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -168,20 +165,20 @@ background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>), </span>
-<span id="cb1-24">    <span class="at" style="color: #657422;
+<span id="cb1-22">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb1-25">    <span class="at" style="color: #657422;
+<span id="cb1-23">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb1-26">  )<span class="sc" style="color: #5E5E5E;
+<span id="cb1-24">  )<span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb1-27">  <span class="fu" style="color: #4758AB;
+<span id="cb1-25">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
 background-color: null;
